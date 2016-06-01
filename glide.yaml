@@ -1,0 +1,3 @@
+package: github.com/dtan4/gin-gorm-diary
+import:
+- package: github.com/gin-gonic/gin
